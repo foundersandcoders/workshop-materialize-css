@@ -11,6 +11,8 @@ Welcome to our workshop on [Materialize CSS](http://materializecss.com/). The st
 
 
 Lunch
+
+##Afternoon
 - What are the priniciples of Material Design?
 - Using Materialize components.
 - Build your own site.
