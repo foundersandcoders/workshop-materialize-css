@@ -10,9 +10,12 @@ Welcome to our workshop on [Materialize CSS](http://materializecss.com/). The st
 - Developer skills and exploring the documentation.
 
 
-Lunch
+  Lunch
 
 ##Afternoon
 - What are the priniciples of Material Design?
 - Using Materialize components.
 - Build your own site.
+
+
+[Slides for the workshop](https://docs.google.com/presentation/d/1GkAfAP2OLlDsEnvYBm0MMiVv_EgEgTHHondXDMa9Sic/edit?usp=sharing)
