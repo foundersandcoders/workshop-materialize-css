@@ -8,3 +8,17 @@
 
 ##Learn to code resources
 - [Free Code Camp] (https://github.com/FreeCodeCamp/FreeCodeCamp)
+
+
+##Design Resources
+- [Unsplash](https://unsplash.com/) Free stock photos
+- [Adobe Kuler] (https://color.adobe.com/create/color-wheel/)
+
+
+##CSS Resoucres
+- [Blog post of vh vw] (http://snook.ca/archives/html_and_css/vm-vh-units)
+- [CSS Dinner] (a fun game to improve your CSS knowledge)
+- [A simple web developers guide to colour](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/)
+
+##Chrome Dev Tools
+- [Dev Tips] (https://umaar.com/dev-tips/)
